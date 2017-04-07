@@ -7,3 +7,5 @@ Steph is the best!
 Kara Woo is OK too
 
 After github sync
+
+Editing with github
