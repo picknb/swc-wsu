@@ -2,4 +2,4 @@ README for workshop
 
 We learned stuff
 
-Steph is the best
+Steph is the best!
